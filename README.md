@@ -38,16 +38,16 @@
 </div>
 <div align=center>
 	<a href="hyunwoo7217@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/Gmail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
 	<a href="kkc147@naver.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Naver&logoColor=white" />
+		<img src="https://img.shields.io/badge/Nmail-30B980?style=flat&logo=Naver&logoColor=white" />
 	</a>
 	<a href="https://www.notion.so/">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<a href="https://.tistory.com/">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Tistory&logoColor=white" />
+		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 	</a>
 	<br>
 </div>
