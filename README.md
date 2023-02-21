@@ -46,6 +46,9 @@
 	<a href="https://www.notion.so/">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
+	<a href="https://.tistory.com/">
+		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Tistory&logoColor=white" />
+	</a>
 	<br>
 </div>
 	<br>
