@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=30&text=안녕하세요%20동기화가%20잘되는%20송현우입니다%20" />
 </div>
 <div align=center>
-	<h3>💪 Tech Stack 📚</h3>
+	<h3>💪 My Stack 💻</h3>
 	<br>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
