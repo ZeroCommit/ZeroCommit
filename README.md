@@ -58,5 +58,5 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=30&text=방문해주셔서%20감사합니다%20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=30&text=더욱 더%20열심히%20달려나가겠습니다%20" />
 </div>
