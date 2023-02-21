@@ -5,7 +5,7 @@
 <div align=center>
 	<h3>💪 My Stack 💻</h3>
 	<br>
-#	<p>✨ Platforms & Languages ✨</p>
+	#<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
