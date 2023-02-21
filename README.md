@@ -34,7 +34,7 @@
 </div>
 <br>
 <div align=center>
-	:mailbox_with_mail: Contacts
+	<p>📬 Contacts </p>
 </div>
 <div align=center>
 	<a href="hyunwoo7217@gmail.com">
