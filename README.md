@@ -52,8 +52,8 @@
 </div>
 	<br>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerocommit&layout=compact"><br><br>
-<br>	
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerocommit&layout=compact"><br><br>
+	<br>	
 </div>
 <br>
 
