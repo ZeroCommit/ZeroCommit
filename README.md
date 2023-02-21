@@ -50,7 +50,7 @@
 	<br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerocommit&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=zerocommit&show_icons=true">
 </div>
 
 <div align="center">
