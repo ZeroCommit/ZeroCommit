@@ -56,6 +56,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zerocommit&show_icons=true">
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=30&text=더욱%20더%20열심히%20달려나가겠습니다%20" />
-</div>
